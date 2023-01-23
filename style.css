@@ -58,6 +58,7 @@ nav a {
 
 caption {
 	font-size: 4rem;
+    color: aliceblue;
 }
 
 table {
@@ -69,7 +70,8 @@ table {
 	width: 100%;
 	height: 200px;
 	border-collapse: collapse;
-	background-color: #373c58;
+	background-color: #8c94bb;
+    color: aliceblue;
 }
 .tabela {
 	padding-top: 25em;
@@ -77,6 +79,10 @@ table {
 }
 table td {
 	border: 1px solid;
+}
+td a{
+    text-decoration: none;
+    color: aliceblue;
 }
 table th {
 	border: 2px solid;
